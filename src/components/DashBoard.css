@@ -1,0 +1,12 @@
+.DashBoard {
+	display: flex;
+	flex-direction: column;
+	flex: auto;
+	width: 30%;
+	margin: 0px;
+	padding: 30px auto;
+	height: 80vh;
+	justify-content: center;
+	background-color: rgb(181, 49, 252, 5%);
+	border-right: 10px solid rgb(181, 49, 252, 5%);
+}

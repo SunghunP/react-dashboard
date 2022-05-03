@@ -1,0 +1,13 @@
+button{
+	width: 100%;
+	border: none;
+	background-color: #D9AFD9;
+	background-image: linear-gradient(340deg, #D9AFD9 30%, #97D9E1 70%);	
+	font-size: 20px;
+}
+
+.DashBoard div {
+	display: flex;
+	height: 10%;
+	margin: 2px;
+}

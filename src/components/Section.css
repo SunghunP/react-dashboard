@@ -1,0 +1,10 @@
+.Section {
+	flex-direction: column;
+	display: flex;
+	width: 25%;
+	border: 2px solid #8b63d4;
+}
+
+h4 {
+	margin: 0px auto;
+}
