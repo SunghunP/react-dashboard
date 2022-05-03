@@ -5,6 +5,7 @@
   align-items: center;
   margin: 0px;
   width: 100%;
+  height: 100%;
   background-color: #D9AFD9;
   background-image: linear-gradient(90deg, #97D9E1 30%, #D9AFD9 70%);  
 }
@@ -13,6 +14,7 @@
   font-family: 'Noto Sans KR', sans-serif;
   font-family: 'Roboto Slab', serif;
   font-family: 'Source Serif Pro', serif;
+  height: 100%;
 }
 
 .App-logo {
